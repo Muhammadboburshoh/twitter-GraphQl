@@ -1,0 +1,17 @@
+{
+  "name": "day-25-10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
